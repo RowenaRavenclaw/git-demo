@@ -1,4 +1,4 @@
-new song 
+New song 
 2 line song
 3 line
 4 line
@@ -7,5 +7,5 @@ new song
 
 7 line 
 -----------------
-8line
-9line
+:wq
+
